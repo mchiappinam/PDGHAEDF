@@ -1,0 +1,9 @@
+name: PDGHAEDF
+main: me.mchiappinam.pdghaedf.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/ & https://hostload.com.br/
+commands:
+   removerdurabilidade:
+      description: Info.
+      usage: /<command>
